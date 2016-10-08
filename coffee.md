@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Coffee
+permalink: /coffee/
 ---
 
 Some information about you!

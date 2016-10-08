@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: MILF
+permalink: /milf/
 ---
 
 Some information about you!
