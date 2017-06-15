@@ -4,6 +4,4 @@ title: Coffee
 permalink: /coffee/
 ---
 
-Under construction
-
-Go drink some coffee...
+![](/pdf/session1.pdf)
